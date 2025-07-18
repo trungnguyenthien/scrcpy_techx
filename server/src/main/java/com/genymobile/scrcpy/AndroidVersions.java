@@ -12,7 +12,6 @@ public final class AndroidVersions {
     private AndroidVersions() {
         // not instantiable
     }
-
     public static final int API_21_ANDROID_5_0 = Build.VERSION_CODES.LOLLIPOP;
     public static final int API_22_ANDROID_5_1 = Build.VERSION_CODES.LOLLIPOP_MR1;
     public static final int API_23_ANDROID_6_0 = Build.VERSION_CODES.M;
